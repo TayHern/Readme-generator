@@ -15,9 +15,9 @@ This is a CLI application that generates a professionally stylized readme file b
 This application requires that Node be installed along with the inquirer dependencies. 
 Instructions on how to do so can be found here: https://www.npmjs.com/package/inquirer 
 
-[![IMAGE ALT TEXT HERE](ReadMe_inst.mov)]
+[![IMAGE ALT TEXT HERE](https://youtu.be/Nw76c21hqPU)
 
-
+Instruction at https://youtu.be/Nw76c21hqPU
 
 
 ## Usage
