@@ -1,5 +1,5 @@
 
-<h1 align="center">ReadME Generator </h1>
+<h1 align="center">ReadMe Generator </h1>
 
 ## Description
 This is a CLI application that generates a professionally stylized readme file by asking the user a series of questions about their project.
